@@ -52,6 +52,9 @@ created_at: "2025-06-20"
   - LIDAR Rangefinder (TF-Luna, TFMini-S)
     - These seem honestly amazing. They use LIDAR, so incredibly narrow FOV (2 degrees). Small form factor, seems perfect...except they're like 23 bucks a piece, cheapest. If I'm ordering 3 of them (minimum), that's like 70 dollars down the drain already. I don't think Hack Club would be very happy with that.
 - ...
-- Holy cow. That's a lot of stuff to put down. Anyways, my best bet looks like the VL53L1X now. I think I can make due with it.
+- Holy cow. That's a lot of stuff to put down. Anyways, my best bet looks like the VL53L1X now. I think I can make do with it.
+
+- Here is an image I guess of some stuff I bookmarked while researching??? idk man
+- ![image](https://github.com/user-attachments/assets/30d2b5f1-1e18-418c-a4aa-0c3fd0380b72)
 - Total time spent, in addition to writing this: **2 hours**
 
