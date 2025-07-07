@@ -57,4 +57,11 @@ created_at: "2025-06-20"
 - Here is an image I guess of some stuff I bookmarked while researching??? idk man
 - ![image](https://github.com/user-attachments/assets/30d2b5f1-1e18-418c-a4aa-0c3fd0380b72)
 - Total time spent, in addition to writing this: **2 hours**
+## July 6: Drew out rough schematic of the system
+- This is fun to do because I feel like I'm being productive without actually expending many braincells.
+- Anyway, this schematic includes the main MCU (Teensy 4.0), 3 distance sensors (VL53L1X), 2 LED WS2812B light strips, and 2 LED Drivers (TLC5947). These LED Drivers will follow the corresponding schematic from Adafruit
+- ![image](https://github.com/user-attachments/assets/b85941b1-2e7f-4615-b39c-35315ec16398)
+- A VERY ROUGH outline of the next steps I have:
+- ![image](https://github.com/user-attachments/assets/740b0322-260b-4ad5-9404-265060172591)
+- Time spent today: **40 min**
 
