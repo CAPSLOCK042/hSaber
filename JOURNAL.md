@@ -64,4 +64,23 @@ created_at: "2025-06-20"
 - A VERY ROUGH outline of the next steps I have:
 - ![image](https://github.com/user-attachments/assets/740b0322-260b-4ad5-9404-265060172591)
 - Time spent today: **40 min**
-
+## July 9, 10, 11: Worked on Schematic
+- Learned the basics of KiCad, how to create schematics, how to create custom symbols, how to create custom footprints, why my downloaded teensy library wasn't allowing me to edit it (it was legacy KiCad)
+- I'm planning to have a main board for most the electronics, and a sub board that goes by the hilt to house the 3-4 ToF sensors. A Pmod-type connector will be the bridge between these two
+- Designed custom footprints and symbols for VL53L1X
+- Added a voltage divider so the Teensy can read the battery input
+- Spent a good amount of time sorting through online components for 5V boost converters, inductors, switches, capacitors, etc
+- New plan for WS2821 LEDs:
+  - Battery is around 4.2-3.6V, but the LED strips need 5 volts
+  - A 5V boost converter will be used, but the max I found can only output 1.8A
+  - We have 4 meters of LEDs in total - so I will use 4 different 5V boosts - allowing for 1.8A (slightly less) per meter
+- Here are some images
+- Sub board:
+- <img width="550" height="392" alt="image" src="https://github.com/user-attachments/assets/3016eef5-f3af-47fd-94f6-7ae3bf9a82a4" />
+- Main board (far from done):
+- <img width="1116" height="563" alt="image" src="https://github.com/user-attachments/assets/dd23a87d-4011-4ff3-b52a-782a234b018c" />
+- WS2821 Lighting:
+-<img width="796" height="722" alt="image" src="https://github.com/user-attachments/assets/af635482-5e9a-4ffe-8c27-47af14830576" />
+- Time spent July 9: **1 hr**
+- Time spent July 10: **1 hr**
+- Time spent July 11: **2.5hr**
