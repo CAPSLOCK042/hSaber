@@ -80,7 +80,13 @@ created_at: "2025-06-20"
 - Main board (far from done):
 - <img width="1116" height="563" alt="image" src="https://github.com/user-attachments/assets/dd23a87d-4011-4ff3-b52a-782a234b018c" />
 - WS2821 Lighting:
--<img width="796" height="722" alt="image" src="https://github.com/user-attachments/assets/af635482-5e9a-4ffe-8c27-47af14830576" />
+- <img width="796" height="722" alt="image" src="https://github.com/user-attachments/assets/af635482-5e9a-4ffe-8c27-47af14830576" />
 - Time spent July 9: **1 hr**
 - Time spent July 10: **1 hr**
 - Time spent July 11: **2.5hr**
+## July 12: Added 3V3 Lin Reg to schematic
+- Found a 3v3 LDO linear regulator and added it to schematic
+- Fixed some other stuff that was wrong, reorganized libraries
+- Added battery screw terminal
+- <img width="429" height="251" alt="image" src="https://github.com/user-attachments/assets/2ab14e76-0172-4406-92f7-77d7346b8012" />
+- <img width="444" height="365" alt="image" src="https://github.com/user-attachments/assets/73e6fd4e-755d-4d76-a36a-9893fdc63b46" />
